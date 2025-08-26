@@ -6,6 +6,11 @@ It’s a complete walkthrough of **data wrangling, preprocessing, and explorator
 ---
 
 ## 🗂 Dataset
+Original Dataset Name: Netflix Data
+
+Source Platform: Kaggle
+
+Original Author: Data Science Lovers (Owner)
 The dataset contains information about Netflix's movies and TV shows, including:
 - Show_Id
 - Category
@@ -50,3 +55,8 @@ The dataset contains information about Netflix's movies and TV shows, including:
 - Trends in genres and release years
 
 ---
+
+## 👤 Author
+
+Olayinka Johnson -Ige
+
