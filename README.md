@@ -6,7 +6,7 @@ It’s a complete walkthrough of **data wrangling, preprocessing, and explorator
 ---
 
 ## 🗂 Dataset
-Original Dataset Name: Netflix Data
+Original Dataset Name: [Netflix Dataset](https://www.kaggle.com/datasets/rohitgrewal/netflix-data)
 
 Source Platform: Kaggle
 
